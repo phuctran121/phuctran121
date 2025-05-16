@@ -9,10 +9,37 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=phuctran121&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=phuctran121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuctran121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
+<div align=center>
+  <a href="#" title="phuctran121">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuctran121&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  </a>
+  <a href="#" title="phuctran121">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=phuctran121&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  </a>
+</div>
 
+# 👽 Where to find me:
+
+<!-- https://icons8.com -->
+<div align="center">
+
+  <a href="https://facebook.com/phuctran12104" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phuctran121-facebook" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/phuctran121" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="phuctran121-linkedin" />
+  </a>
+  <a href="https://instagram.com/hpta_1214" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="phuctran121-instagram" />
+  </a>
+  <a href="mailto:phuctran058@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phuctran121-email" />
+  </a>
+</div>
+
+<br>
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
